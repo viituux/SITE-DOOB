@@ -1,0 +1,77 @@
+body {
+    background-position-x: center;
+}
+.colorNav{
+    color: #1f4387 !important;
+    font-weight: 700 !important;
+    margin-left: 20px;
+    font-size: 18px;
+}
+.imgSpace{
+    margin-left: 20px;
+    margin-right: 40px;
+}
+.stlH3 {
+    color: red;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.stlH2 {
+    color: #1f4387;
+    font-size: 46;
+    font-weight: 700;
+}
+
+.stlH1 {
+    color: #1f4387;
+    font-size: 66px;
+    font-weight: 700;
+
+}
+
+.stlEnd {
+    background-color: #1f4387;
+    color: white;
+    text-align: center;
+}
+
+.sec2 {
+    margin-top: 50px;
+}
+
+.btspace {
+    margin: 20px;
+}
+stlArr{
+    margin: 20px;
+    padding: 40px;
+    background-color: #1f4387;
+    color: #f84343;
+
+}
+.butRed{
+    background-color: #f84343;
+    color: #fff;
+    border-radius: 18px;
+    padding: 10px 25px;
+    border: none;
+}
+.butRed:hover{
+    background-color: #fff;
+    color: #f84343;
+    border: 1px solid #f84343;
+}
+.butWhite{
+    background-color: #fff;
+    color: #1f4387;
+    border-radius: 18px;
+    padding: 10 25px;
+    border: none;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.butWhite:hover{
+    background-color: #1f4387;
+    color: #fff;
+}
