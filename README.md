@@ -25,8 +25,8 @@ O projeto Doob foi desenvolvido utilizando as seguintes tecnologias:
 
 Para executar o projeto localmente, siga as etapas abaixo:
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/doob.git`
-2. Navegue até o diretório do projeto: `cd doob`
+1. Clone este repositório: `git clone https://github.com/viituux/SITE-DOOB.git`
+2. Navegue até o diretório do projeto: `cd SITE-DOOB`
 3. Abra o arquivo `index.html` no seu navegador.
 
 ## Estrutura do Projeto
